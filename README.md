@@ -16,7 +16,7 @@
   </a>  
   and  
   <a href="https://www.tcs.com/" target="_blank">
-    <img src="./Src/TCS-logo-sized.jpg" alt="TCS" width="100" />
+    <img src="https://github.com/Anto-26/Src/blob/main/TCS-logo-sized.jpg" alt="TCS" width="100" />
   </a>
 
 - 📫 How to reach me **jamesantoarnold@gmail.com**
