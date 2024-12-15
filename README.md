@@ -12,7 +12,7 @@
 
 - 👯 My previous experiences are at  
   <a href="https://www.accenture.com/" target="_blank">
-    <img src="./Src/Accenture-logo.jpg" alt="Accenture" width="100" />
+    <img src="https://github.com/Anto-26/Src/blob/main/Accenture-logo.jpg" alt="Accenture" width="100" />
   </a>  
   and  
   <a href="https://www.tcs.com/" target="_blank">
