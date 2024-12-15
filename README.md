@@ -7,7 +7,7 @@
 
 - 👨‍💻 I’m currently working at <b>WorkL as Data Analyst</b>  
   <a href="https://www.workl.co/" target="_blank">
-    <img src="./Src/worklLogo1560x810.jpg" alt="WorkL" width="200" />
+    <img src="https://github.com/Anto-26/Src/blob/main/worklLogo1560x810.jpg" alt="WorkL" width="200" />
   </a>
 
 - 👯 My previous experiences are at  
