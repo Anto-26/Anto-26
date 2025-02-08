@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm James</h1>
+<h1 align="center">Hi 👋, I'm James Anto Arnold</h1>
 <h3 align="center">A Dedicated Data Enthusiast Passionate About Transforming Data into Actionable Insights – Empowering Decisions Through Data-Driven Storytelling</h3>
 
 <p align="center"> 
