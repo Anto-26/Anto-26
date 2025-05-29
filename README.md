@@ -19,9 +19,6 @@
     <img src="https://github.com/Anto-26/Src/blob/main/TCS-logo-sized.jpg" alt="TCS" width="100" />
   </a>
 
-- 💎 Passionate about Data Science and Machine Learning  
-  <img src="https://miro.medium.com/max/1400/1*1YCCuSoVaHUKT6hO9bU20A.jpeg" alt="Data Science" width="400" />
-
 - 💌 How to reach me **jamesantoarnold@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
