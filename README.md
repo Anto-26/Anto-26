@@ -40,14 +40,3 @@
   <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> </a>
   <a href="https://www.tableau.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/> </a>
 </p>
-
-<h3 align="left">Data Science Projects:</h3>
-<ul>
-  <li>🔬 <b>Predictive Analytics</b> – <i>Using Machine Learning to predict customer churn</i></li>
-  <li>📊 <b>Data Visualization</b> – <i>Interactive dashboards using Power BI and Tableau</i></li>
-  <li>🔬 <b>Deep Learning</b> – <i>Image classification with TensorFlow and PyTorch</i></li>
-</ul>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anto-26&show_icons=true&locale=en&layout=compact" alt="anto-26" />
-</p>
